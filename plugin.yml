@@ -1,0 +1,6 @@
+---
+name: EmptyChunkRemover
+version: 1.0
+main: HGRgamer\EmptyChunkRemover\Main
+api: 5.0.0
+...
